@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590265247 source:c:\users\raj\desktop\c++ programs\lec 30 [arrow member selection operator and pointer]\main.cpp
+	<iostream>
+	<string>
+	"Books.h"
+
+1590265247 c:\users\raj\desktop\c++ programs\lec 30 [arrow member selection operator and pointer]\books.h
+	<iostream>
+	<string>
+
+1590265277 source:c:\users\raj\desktop\c++ programs\lec 30 [arrow member selection operator and pointer]\books.cpp
+	"Books.h"
+

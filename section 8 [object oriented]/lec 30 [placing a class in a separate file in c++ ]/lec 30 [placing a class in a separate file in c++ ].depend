@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590261652 source:c:\users\raj\desktop\c++ programs\lec 30 [placing a class in a separate file in c++ ]\books.cpp
+	"Books.h"
+
+1590261652 c:\users\raj\desktop\c++ programs\lec 30 [placing a class in a separate file in c++ ]\books.h
+
+1514140574 source:c:\users\raj\desktop\c++ programs\lec 30 [placing a class in a separate file in c++ ]\main.cpp
+	<iostream>
+

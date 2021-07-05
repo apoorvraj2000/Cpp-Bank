@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590599200 source:c:\users\raj\desktop\c++ programs\lec 43 [create a text file & write in it]\main.cpp
+	<iostream>
+	<fstream>
+
